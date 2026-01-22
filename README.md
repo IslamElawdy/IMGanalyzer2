@@ -1,4 +1,10 @@
 # AI Image Lab (KI-Bildlabor)
+![Image](https://github.com/user-attachments/assets/e2b98c21-eedc-4b12-a412-ad5e78a8d8d4)
+![Image](https://github.com/user-attachments/assets/bf3155cf-4576-452a-9e31-3a8f9c147b4c)
+![Image](https://github.com/user-attachments/assets/ad96fdd8-27f1-47aa-a3ee-8f7f52c35707)
+![Image](https://github.com/user-attachments/assets/96210926-c326-46de-945e-37e722a86baa)
+![Image](https://github.com/user-attachments/assets/32bc0d5f-6e2a-4f1d-8ade-9e1d5d351959)
+![Image](https://github.com/user-attachments/assets/383c2320-c3a8-4cde-962e-fc1d796918ba)
 
 ## English
 
@@ -6,11 +12,6 @@ an interactive application to **understand computer vision and AI** concepts. It
 
 ### Features
 1. **Upload & Info**: Image inspection and normalization.
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/28195be3-476a-4015-b89e-21d2e08c8dc7" width="400">
-</p>
-
 2. **Pixel Explorer**: Interactive zoom and tensor values.
 3. **Channels & Tensor**: RGB split and histograms.
 4. **Patch Viewer**: Step-by-step convolution logic.
