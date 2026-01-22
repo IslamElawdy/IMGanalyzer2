@@ -6,6 +6,7 @@ an interactive application to **understand computer vision and AI** concepts. It
 
 ### Features
 1. **Upload & Info**: Image inspection and normalization.
+![Image](https://github.com/user-attachments/assets/28195be3-476a-4015-b89e-21d2e08c8dc7)
 2. **Pixel Explorer**: Interactive zoom and tensor values.
 3. **Channels & Tensor**: RGB split and histograms.
 4. **Patch Viewer**: Step-by-step convolution logic.
